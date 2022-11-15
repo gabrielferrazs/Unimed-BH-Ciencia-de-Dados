@@ -1,3 +1,3 @@
 # Unimed BH Ciencia de Dados
 
-Todos os arquivos que foram entregues nos desafios do curso.
+Alguns dos arquivos que foram entregues nos desafios do curso.
